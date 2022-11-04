@@ -1,0 +1,46 @@
+[
+  {
+    "id": "task1",
+    "parent": null,
+    "title": "Root task",
+    "descript": "This is a description of the root task",
+    "weight": 0,
+    "status": "TO_DO",
+    "author": "Me",
+    "assignee": null,
+    "tags": "front;back;"
+  },
+  {
+    "id": "task1.1",
+    "parent": "task1",
+    "title": "Big task. Part 1",
+    "descript": "This is a description of the first part of the root task",
+    "weight": 0,
+    "status": "TO_DO",
+    "author": "Me",
+    "assignee": null,
+    "tags": "front;back;"
+  },
+  {
+    "id": "task1.2",
+    "parent": "task1",
+    "title": "Big task. Part 2",
+    "descript": "This is a description of the first part of the root task",
+    "weight": 0,
+    "status": "TO_DO",
+    "author": "Me",
+    "assignee": null,
+    "tags": "front;back;"
+  },
+  {
+    "id": "task1.1.2",
+    "parent": "task1.1",
+    "title": "Subtask of First part",
+    "descript": "This is a description of the subtask first part of the root task",
+    "weight": 0,
+    "status": "TO_DO",
+    "author": "Me",
+    "assignee": null,
+    "tags": "front;back;"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mbr-serv": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "leaf-tracker",
+  "version": "0.0.1",
+  "description": "Task tracker with tree structure",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadBrozzeR/leaf-tracker.git"
+  },
+  "keywords": [
+    "task",
+    "tracker",
+    "tree",
+    "planner",
+    "project manager"
+  ],
+  "author": "MadBrozzeR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadBrozzeR/leaf-tracker/issues"
+  },
+  "homepage": "https://github.com/MadBrozzeR/leaf-tracker#readme"
+}
